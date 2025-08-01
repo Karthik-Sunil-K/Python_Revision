@@ -1,0 +1,3 @@
+The whole point is starting from the right top corner and do a staricase search if the value is target then return the target or if the target value is lesser then current decrease the column go column wise left side <---- cause lesser values are left side of the current pointer
+If the target value is greater than the current pointer then move downward
+check edge case if the matrix is not and return false
