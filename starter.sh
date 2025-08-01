@@ -1,4 +1,4 @@
-FOLDER_NAME="Files added from different repo"
+FOLDER_NAME="updated problem eqlbm"
 WEEK_FOLDER="Week 3 Array+Strings"
 
 cd "$WEEK_FOLDER" && mkdir "$FOLDER_NAME" && cat > "$FOLDER_NAME/README.md" <<EOF

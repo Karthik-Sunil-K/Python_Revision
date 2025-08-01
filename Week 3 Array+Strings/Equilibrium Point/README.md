@@ -42,6 +42,7 @@ class Solution:
 - The total sum is left_side_sum + right_side_sum + arr[i]
 - check left_sum == right_sum
 - that is left_sum = tot_sum - left_sum - arr[i] 
-- if both are equal return its index that is i
+- if both are equal return its index that is i 
+- Other wise return -1
 - 
 
